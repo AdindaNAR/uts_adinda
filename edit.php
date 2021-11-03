@@ -21,7 +21,7 @@ $isi = $query->fetch_assoc();
 		<div class="container">
         <row>
             <div class="card">
-            <h2 align="center">Edit Data Pegawai</h2>
+            <h2 align="center">Edit Data Pegawaiaa</h2>
             <div class="card-body">
                 <form class="row g-3" method="POST" action="edit.php">
                  <div class="col-md-12">
